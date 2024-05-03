@@ -1,0 +1,11 @@
+title,
+        description,
+        source,
+        author
+
+
+
+          newTitle 
+        newDescription 
+        newSource 
+        newAuthor 
